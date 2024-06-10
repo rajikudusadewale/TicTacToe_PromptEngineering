@@ -24,6 +24,8 @@ font_medium = pygame.font.Font(None, 36)
 # Initialize an empty grid
 grid = [' '] * 9
 
+#
+
 
 # Function to display the grid
 def display_grid():
